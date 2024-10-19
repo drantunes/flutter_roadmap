@@ -20,7 +20,7 @@ Encare este roadmap como uma trilha, uma jornada. Você pode achar que são muit
 
 **🔵 Fundamental**: são conceitos e tópicos essenciais para trabalhar com o Flutter e conseguir evoluir na carreira. 
 
-**🟢 Desejável**: são um segundo passo de estudo, onde o desenvolvedor irá se aprofundar em conceitos mais específicos do Flutter e Mobile. 
+**🟢 Desejável**: é um segundo passo de estudo, onde o desenvolvedor irá se aprofundar em conceitos mais específicos do Flutter e Mobile. 
 
 **🟡 Opcional**: são tópicos que você pode estudar para enriquecimento de conhecimento e também para especialização, após dominar os conceitos base. 
 

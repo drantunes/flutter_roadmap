@@ -6,7 +6,7 @@ O Roadmap foi criado com base na experiência do autor, na documentação do Flu
 
 Caso você considere que está faltando algum tópico neste Roadmap, você pode contribuir com uma issue ou mesmo um PR.
 
-📺 Vídeo: Roadmap Flutter 2024
+📺 Vídeo: Roadmap Flutter (Está atualizado)
 ---
 Caso queira uma explicação de cada tópico, recomendo assistir ao vídeo abaixo no Youtube, onde explico cada área e o que ela compreende. Também aproveita, já se inscreva em nosso canal e também deixe o like no vídeo para apoiar o canal. 
 
@@ -185,6 +185,7 @@ flowchart LR
                 sm --> sm2(🔵 Provider):::leaf
                 sm --> sm3(🔵 BLoC):::leaf
                 sm --> sm4(🔵 GetIt):::leaf
+                sm --> sm4(🔵 Signals):::leaf
                 sm --> sm5(🟢 Riverpod):::leaf
                 sm --> sm6(🟢 MobX):::leaf
                 sm --> sm7(🟢 ASP):::leaf
